@@ -10,7 +10,3 @@ Hi there! I’m Sanae, a tech enthusiast with a love for creativity and innovati
 
 ## 📚 Currently Learning
 I’m diving deeper into advanced web development and exploring creative ways to integrate tech with my interests.
-
-## 📫 Get in Touch
-Email: sanaeachour.05@gmail.com
-LinkedIn: www.linkedin.com/in/sana-achour-02b291217
