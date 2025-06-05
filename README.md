@@ -1,7 +1,11 @@
 <h1 align="center">Hey👋, I'm Sana Achour</h1>
 
 ###
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanaear.sanaear&"  />
+</div>
 
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="13" />
