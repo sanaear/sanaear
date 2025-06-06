@@ -4,6 +4,7 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sanaear.sanaear&"  />
 </div>
+![Jim Carrey typing furiously](https://media.tenor.com/4zD_Vz1hPskAAAAC/bruce-almighty-comedy.gif)
 
 ###
 <div align="center">
